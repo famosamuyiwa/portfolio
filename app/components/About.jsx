@@ -51,7 +51,7 @@ const About = () => {
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.8 }}
-          className="flex-1 max-w-sm sm:max-w-none"
+          className="flex-1 max-w-72 sm:max-w-none"
         >
           <p className="mb-10  font-Ovo">
             I am a full-stack engineer who loves turning ideas into products
